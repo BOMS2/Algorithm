@@ -1,5 +1,5 @@
 #Algorithm
 
-C++
+*C++
 
-Swift
+*Swift
