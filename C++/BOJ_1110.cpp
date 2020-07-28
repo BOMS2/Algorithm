@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    int a,b,c,n, count =0;
+    int a=0,b=0,c=0,n=0, count =0;
     cin >> a;
     b = a / 10;
     c = a % 10;

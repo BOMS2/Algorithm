@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int a,n,result=0;
+    int a=0,n=0,result=0;
     int arr[100];
     while(n<5){
         cin >> a;

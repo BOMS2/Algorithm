@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    int a,c=0;
+    int a=0,c=0;
     scanf("%d", &a);
     
     if(a < 100){ //2자리

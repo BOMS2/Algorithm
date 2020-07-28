@@ -23,7 +23,7 @@ int main()
 {
     char s[50];
     char c[50];
-    int first, i=0;
+    int first=0, i=0;
     scanf("%s", s);
     
     

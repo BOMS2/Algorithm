@@ -5,7 +5,7 @@ int main(){
     cin.tie(NULL);
     ios_base::sync_with_stdio(false);
     
-    int a,b,c=0;
+    int a=0,b=0,c=0;
     cin >> a;
     for(int i=0; i<a; i++){
         cin >> b >> c;
