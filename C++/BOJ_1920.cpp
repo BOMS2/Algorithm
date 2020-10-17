@@ -28,7 +28,7 @@ int main(){
     for(int i=0; i<n; i++){
         cin >> arr[i];
     }
-    sort(arr, arr+n); //시간 줄일려고씀
+    sort(arr, arr+n);
     cin >> m;
     int a;
     for(int i=0; i<m; i++){
