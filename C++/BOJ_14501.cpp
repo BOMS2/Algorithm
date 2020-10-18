@@ -4,7 +4,7 @@ using namespace std;
 int n;
 int arrT[16], arrP[16];
 int answer=0;
-//DP 문제였는데 메모이제이션 안씀
+//DP 문제였는데 메모이제이션 안씀, 재귀함수
 void counsel(int now, int sum, int add){ 
     if(now == n){
         answer = max(answer, sum);
